@@ -1,0 +1,18 @@
+schema_version = "1.0.0"
+
+id = "m3shtry_apply_here"
+version = "1.0.0"
+name = "Apply Here"
+tagline = "Apply one modifier without leaving Edit Mode"
+maintainer = "m3shtry"
+type = "add-on"
+
+tags = ["Modeling", "Mesh"]
+
+blender_version_min = "4.2.0"
+
+license = ["SPDX:GPL-3.0-or-later"]
+copyright = ["2026 m3shtry"]
+
+[build]
+paths_exclude_pattern = ["__pycache__/", "/.git/", "*.zip"]

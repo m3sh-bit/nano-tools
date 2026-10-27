@@ -1,0 +1,36 @@
+Apply Here
+Copyright (C) 2026 m3shtry
+
+This program is free software: you can redistribute it and/or modify it under
+the terms of the GNU General Public License as published by the Free Software
+Foundation, either version 3 of the License, or (at your option) any later
+version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT
+ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with
+this program in LICENSE.txt. If not, see <https://www.gnu.org/licenses/>.
+
+
+Additional terms under section 7 of the GNU GPL version 3
+---------------------------------------------------------
+
+These terms are part of the license of this program. They add nothing that
+limits your right to use, study, change or share it.
+
+1. Attribution (section 7b). Keep the line "Copyright (C) 2026 m3shtry" and
+   this notice in every copy of the source code, and credit "m3shtry" as the
+   original author wherever the add-on names its authors, such as its author
+   or copyright field.
+
+2. Modified versions (section 7c). If you change this add-on and pass it on,
+   free or paid, mark it clearly as modified: give it a name different from
+   "Apply Here" and say in its description that it is based on "Apply Here by
+   m3shtry". Do not present a modified version as the original, or as made
+   or endorsed by m3shtry.
+
+3. Name (section 7e). The name "m3shtry" is not licensed for use in the names,
+   branding or advertising of other products, beyond the attribution required
+   above.

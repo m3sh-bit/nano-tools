@@ -1,0 +1,18 @@
+schema_version = "1.0.0"
+
+id = "m3shtry_true_up"
+version = "1.0.0"
+name = "True Up"
+tagline = "Stand a tilted prop straight by its own faces"
+maintainer = "m3shtry"
+type = "add-on"
+
+tags = ["Object", "Modeling"]
+
+blender_version_min = "4.2.0"
+
+license = ["SPDX:GPL-3.0-or-later"]
+copyright = ["2026 m3shtry"]
+
+[build]
+paths_exclude_pattern = ["__pycache__/", "/.git/", "*.zip"]
